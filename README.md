@@ -1,1 +1,2 @@
-
+# Vodeo
+"I developed a video calling website using WebRTC API for real-time video and audio communication, ReactJS for the frontend, and Material UI for the UI design. The website allows users to make one-on-one or group video calls with the click of a button, and features a responsive and intuitive interface designed with Material UI. I utilized ReactJS's functional components and hooks to implement features such as call history and call notifications, and integrated WebRTC's signaling server to establish secure peer-to-peer connections. Overall, the project was a great opportunity to learn and apply modern web development technologies and practices."
